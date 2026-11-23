@@ -1,12 +1,12 @@
 # CRUD-With-Transaction
-ASP.NET Core Web API CRUD Operation with Transaction using EF Core
+### ASP.NET Core Web API CRUD Operation with Transaction using EF Core
 
 Create application using ASP.NET Core Web API template in Visual Studio 2022.
 
 - Solution name: ApiDemo1
 - Project name: ApiDemo1
 
-Note. We create single project for simplicity.
+Note. We create single project for simple project architecture. The CRUD operations are developed using async-await. The Transaction object is used to commit or Rollback a transaction.
 
 **Create folders structure:**
 ```
